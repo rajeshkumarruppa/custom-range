@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-c {
+    background: rgb(2, 0, 36);
+    background: -moz-linear-gradient(105deg, rgba(2, 0, 36, 1) 0%, rgba(128, 194, 223, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    background: -webkit-linear-gradient(105deg, rgba(2, 0, 36, 1) 0%, rgba(128, 194, 223, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    background: linear-gradient(105deg, rgba(2, 0, 36, 1) 0%, rgba(128, 194, 223, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024", endColorstr="#00d4ff", GradientType=1);
+    background-size: cover;
+    height: 100vh;
+    width:100vw;
+    text-align: center;
+    padding:50px;
+}
+
+
+.heading {
+    color: #3e4c59;
+    font-family: "Bree Serif";
+    font-size: 24px;
+}
+
+.counter {
+    font-size: 32px;
+}
